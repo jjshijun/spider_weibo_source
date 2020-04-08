@@ -1,0 +1,17 @@
+{
+	"user_id_list": ["2909226117", "2376776641", "1662563680", "7161209197", "7163300588", "7163295896", "2020409485", "5723985445", "6555761120", "5723951653"],
+    "filter": 0,
+    "since_date": 30,
+    "write_mode": ["mysql"],
+    "pic_download": 0,
+    "video_download": 0,
+    "cookie": "ALF=1588745969; _T_WM=99774833669; WEIBOCN_FROM=1110006030; MLOGIN=1; XSRF-TOKEN=b67588; SSOLoginState=1586190135; SCF=AgiFV5D-Tn2Wik4Qnl8OFzYncMv-XoxVndIlhYyW56yoldmiK71gF82wQsctFxzFp7e1OnHngoQ0ObciZGdMwSU.; SUB=_2A25zjydnDeRhGedJ41QX9CzJzDyIHXVRcEkvrDV6PUJbktANLVGgkW1NUbH6Qi8ZmUzfUfqQgJmfFsmlr9Eicl3a; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFwf6i-n-luO8bYwIJRlr2l5JpX5KzhUgL.Fo2N1hqcShzfS052dJLoIEBLxKqL1h2LBoqLxK.LB-BL1KBLxKnLB.qL1KnLxK-LBo5L12qt; SUHB=0Jvxbn3JUZClCE; M_WEIBOCN_PARAMS=oid%3D4490869232741831%26lfid%3D4490869232741831%26luicode%3D20000174%26uicode%3D20000174",
+    "mysql_config": {
+        "host": "mysql57.rdsm95nk4z3to4o.rds.su.baidubce.com",
+        "port": 3306,
+        "user": "spider_public",
+        "password": "Sp12345678",
+        "db": "spider_public",
+        "charset": "utf8mb4"
+    }
+}
